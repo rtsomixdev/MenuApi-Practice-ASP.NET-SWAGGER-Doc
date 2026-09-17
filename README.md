@@ -76,4 +76,4 @@ MENUAPI/
 5) เข้าใช้งานหน้าทดสอบ API ได้ที่: https://localhost:7000/swagger
 
 ผู้พัฒนา (Author)
-พัฒนาโดย rtsomix
+พัฒนาโดย rtsomixdev
